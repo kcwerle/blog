@@ -4,4 +4,4 @@
 
 KW-BLOG
 
-[link to fast.ai](https://www.fast.ai)
+[fast.ai](https://www.fast.ai)
