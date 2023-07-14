@@ -1,5 +1,3 @@
-KW-BLOG
-
 <!-- ![Image of fast.ai logo](images/logo.png) -->
 
 Links ...  
